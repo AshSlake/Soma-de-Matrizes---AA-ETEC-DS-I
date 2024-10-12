@@ -3,7 +3,7 @@
 <h1 align="center"> Programa para soma de matrizes 3x3 - Desenvolvido para Agenda #10 da Etec- Desenvolvimento de Sistemas</h1>
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://eadtec.cps.sp.gov.br/atividades/recursos/files/Ag08Fig1.PNG.jpg" alt="cinema" width="98" height="98" /> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://eadtec.cps.sp.gov.br/atividades/recursos/files/atividade_ag9.JPG" alt="matriz" width="98" height="98" /> </a>
 </p>
 
 <h3 aling = "left"> 
